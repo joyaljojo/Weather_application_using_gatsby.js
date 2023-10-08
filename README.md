@@ -2,7 +2,6 @@
 ## Gatsby's weather application  
 
 
-
 A simple Gatsby weather app that allows users to check weather information for various cities. Users can select a city from a dropdown menu and click the "Search" button to retrieve weather data for the selected city.
 
 ## Features
