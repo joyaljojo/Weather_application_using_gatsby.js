@@ -1,7 +1,6 @@
 
-<h1 align="center">
   Gatsby's weather application  
-</h1>
+
 
 
 A simple Gatsby weather app that allows users to check weather information for various cities. Users can select a city from a dropdown menu and click the "Search" button to retrieve weather data for the selected city.
