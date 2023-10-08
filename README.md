@@ -28,7 +28,7 @@ Install dependencies:
 bash
 npm install
 
-Add your OpenWeatherMap API key in the src/pages/weather.js file.
+Add your OpenWeatherMap API key in the src/pages/index.js file.
 
 Start the development server:
 bash
