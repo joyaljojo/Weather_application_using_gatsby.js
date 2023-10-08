@@ -1,5 +1,5 @@
 
-  Gatsby's weather application  
+## Gatsby's weather application  
 
 
 
