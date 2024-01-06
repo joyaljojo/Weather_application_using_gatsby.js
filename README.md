@@ -37,3 +37,7 @@ Open your browser and access the app at http://localhost:8000/weather.
 
 
 
+Acess this one using following link: https://joyaljojo.github.io/Weather_application_using_gatsby.js/
+
+
+
